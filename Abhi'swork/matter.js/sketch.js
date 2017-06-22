@@ -1,4 +1,4 @@
-//var Example = Example || {};
+var Example = Example || {};
 
 car = function() {
     var Engine = Matter.Engine,
